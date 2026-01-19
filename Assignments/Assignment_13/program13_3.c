@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Print_Odd_Numbers
-//  Input         : Integer
-//  Output        : Void
 //  Description   : This function displays all odd numbers
 //                  between 1 and the given number N.
+//  Input         : Integer
+//  Output        : Void
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
