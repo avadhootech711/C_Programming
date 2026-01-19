@@ -10,7 +10,8 @@
 //
 //  Function Name : RangeSum
 //  Description   : This function returns the addition of all  
-//                  positive numbers between the given range.
+//                  positive numbers between the given range 
+//                  (Start to End).
 //  Input         : Integer, Integer
 //  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
