@@ -9,12 +9,12 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : Display
-//  Input          : Integer, Integer
-//  Output         : None(Void)
 //  Description    : It accepts two integers from the user.
 //                   The first number is displayed as many times
 //                   as the value of the second number (frequency).
 //                   If frequency is negative, it is converted to positive.
+//  Input          : Integer, Integer
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
