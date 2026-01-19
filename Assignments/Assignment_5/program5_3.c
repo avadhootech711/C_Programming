@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : CheckLeapYear
-//  Input         : Integer
-//  Output        : Void
 //  Description   : It accepts a year from the user and checks 
 //                  whether it is a leap year or not.
+//  Input         : Integer
+//  Output        : Void
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
