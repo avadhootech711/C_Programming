@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : SumNonFact
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : It accepts a number from the user and returns 
 //                  the summation of all numbers that are NOT factors of it.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
