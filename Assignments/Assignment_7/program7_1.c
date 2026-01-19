@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Pattern
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a number from the user 
 //                  and prints that number of '$' and '*' symbols 
 //                  alternately on the screen. 
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
