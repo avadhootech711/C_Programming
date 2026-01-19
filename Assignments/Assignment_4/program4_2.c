@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : FactRev
-//  Input          : Integer
-//  Output         : None(Void)
 //  Description    : It accepts a number from user and prints 
 //                   all its factors in decreasing order.
+//  Input          : Integer
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
