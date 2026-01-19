@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : FindLargest
-//  Input         : Integer, Integer, Integer
-//  Output        : Integer
 //  Description   : It accepts three numbers from the user 
 //                  and returns the largest number among them.
+//  Input         : Integer, Integer, Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
