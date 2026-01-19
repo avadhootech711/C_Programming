@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : DisplayName
-//  Input         : None(String)
-//  Output        : None(Void)
 //  Description   : It accepts a full name from the user and 
 //                  displays it on the screen.
+//  Input         : None(String)
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
