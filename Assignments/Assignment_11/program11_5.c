@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : RangeDisplayRev
-//  Input         : Integer, Integer
-//  Output        : None(Void)
 //  Description   : This function displays numbers from starting
 //                  point to ending point in reverse order.
+//  Input         : Integer, Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
