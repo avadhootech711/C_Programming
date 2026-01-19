@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Print_Even_Numbers
-//  Input         : Integer
-//  Output        : Void
 //  Description   : This function prints all even numbers from
 //                  1 to the given number N.
+//  Input         : Integer
+//  Output        : Void
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
