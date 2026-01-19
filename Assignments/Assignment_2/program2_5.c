@@ -11,11 +11,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : CheckEvenOdd
-//  Input          : Integer
-//  Output         : Boolean
 //  Description    : It accepts one integer from the user and 
 //                   returns true if the number is even, otherwise false.
 //                   If number is negative, it converts it to positive.
+//  Input          : Integer
+//  Output         : Boolean
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
