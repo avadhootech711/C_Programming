@@ -9,12 +9,12 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Display
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a single-digit number
 //                  (positive or negative) from the user and prints
 //                  its word equivalent. If the number is not a single-digit, it prints
 //                  "Invalid Number".
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
