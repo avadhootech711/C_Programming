@@ -13,11 +13,11 @@ typedef int BOOL;
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : ChkVowel
-//  Input          : Character
-//  Output         : Boolean
 //  Description    : It accepts one character from the user and 
 //                   returns TRUE if the character is a vowel 
 //                   otherwise returns FALSE.
+//  Input          : Character
+//  Output         : Boolean
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
