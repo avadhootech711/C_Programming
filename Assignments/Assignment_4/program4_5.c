@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : FactDiff
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : It accepts a number from the user and returns the
 //                  difference between summation of all its factors 
 //                  and non-factors.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
