@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : RectArea
-//  Input         : Float, Float
-//  Output        : Double
 //  Description   : This function accepts width and height of a rectangle 
 //                  and returns its area using the formula 
 //                  Area = Width × Height.
+//  Input         : Float, Float
+//  Output        : Double
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 29/10/2025
 //
