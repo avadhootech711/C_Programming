@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : TableRev
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a number from the user 
 //                  and prints its table in reverse order 
 //                  from 10th multiple to 1st multiple.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
