@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : NonFact
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : It accepts a number from the user and displays 
 //                  all numbers that are NOT factors of it.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash  Pawar
 //  Date          : 27/10/2025
 //
