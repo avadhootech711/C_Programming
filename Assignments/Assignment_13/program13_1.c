@@ -9,9 +9,9 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Print_Numbers
+//  Description   : This function prints numbers from 1 to N.
 //  Input         : Integer
 //  Output        : Void
-//  Description   : This function prints numbers from 1 to N.
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
