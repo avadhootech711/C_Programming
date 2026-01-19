@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : DisplayEvenFactor
-//  Input          : Integer
-//  Output         : None(Void)
 //  Description    : It accepts one integer from the user and 
 //                   displays all its even factors on the screen.
+//  Input          : Integer
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
