@@ -10,7 +10,7 @@
 //
 //  Function Name : RangeDisplayEven
 //  Description   : This function displays all even numbers from
-//                  starting point to ending point.
+//                  starting point to ending point in serial.
 //  Input         : Integer, Integer
 //  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
