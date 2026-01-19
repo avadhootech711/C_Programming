@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : PrintEven
-//  Input          : Integer
-//  Output         : None(Void)
 //  Description    : It accepts one integer from the user and
 //                   prints that number of even numbers on screen.
+//  Input          : Integer
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
