@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Print_Factors
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function prints all the positive factors
 //                  of the given number in ascending order.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
