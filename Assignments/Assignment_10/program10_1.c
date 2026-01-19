@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : CircleArea
-//  Input         : Float
-//  Output        : Double
 //  Description   : This function accepts radius from the user 
 //                  and returns the area of a circle using the formula 
 //                  Area = π * r².
+//  Input         : Float
+//  Output        : Double
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 29/10/2025
 //
