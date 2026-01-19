@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : Display
-//  Input          : Integer
-//  Output         : None(Void)
 //  Description    : It accepts one integer from the user and
 //                   displays that number of '*' symbols on the screen.
+//  Input          : Integer
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
