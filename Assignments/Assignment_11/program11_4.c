@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : RangeSumEven
-//  Input         : Integer, Integer
-//  Output        : Integer
 //  Description   : This function returns the addition of all  
 //                  even numbers between the given positive range.
+//  Input         : Integer, Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
