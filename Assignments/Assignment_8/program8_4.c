@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Table
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a number from the user
 //                  and prints its table up to 10 multiples.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
