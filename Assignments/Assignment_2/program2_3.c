@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : Display
-//  Input          : Integer
-//  Output         : None(Void)
 //  Description    : It accepts one integer from user.
 //                   If number is less than 10, it prints "Hello",
 //                   otherwise it prints "Demo".
+//  Input          : Integer
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 27/10/2025
 //
