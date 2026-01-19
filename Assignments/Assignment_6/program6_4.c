@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Multiply
-//  Input         : Integer, Integer, Integer
-//  Output        : Integer
 //  Description   : This function accepts three numbers from the user 
 //                  and returns their multiplication. 
 //                  If any number is zero, the result is zero.
+//  Input         : Integer, Integer, Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
