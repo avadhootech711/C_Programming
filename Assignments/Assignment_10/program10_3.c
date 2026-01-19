@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : KMtoMeter
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function converts distance from 
 //                  kilometers to meters.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 29/10/2025
 //
