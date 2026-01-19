@@ -10,10 +10,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : CheckEqual
-//  Input         : Integer, Integer
-//  Output        : Boolean
 //  Description   : This function checks whether two given numbers
 //                  are equal or not.
+//  Input         : Integer, Integer
+//  Output        : Boolean
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
