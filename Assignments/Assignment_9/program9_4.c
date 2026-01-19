@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : OddFactorial
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function accepts a number from the user 
 //                  and returns the factorial of all odd numbers 
 //                  up to that number.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
