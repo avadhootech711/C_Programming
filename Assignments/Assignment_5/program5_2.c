@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : FindMax
-//  Input         : Integer, Integer
-//  Output        : Integer
 //  Description   : It accepts two integers from the user and 
 //                  returns the larger number using if-else condition.
+//  Input         : Integer, Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
