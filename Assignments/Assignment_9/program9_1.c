@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Display
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a number from the user
 //                  and prints '*' N times followed by '#' N times.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
