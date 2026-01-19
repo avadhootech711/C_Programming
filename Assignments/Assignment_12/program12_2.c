@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Count_Factors
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function returns the count of all
 //                  positive factors of the given number.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
