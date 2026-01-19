@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : DollarToINR
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function accepts amount in US Dollars 
 //                  and returns its corresponding value in 
 //                  Indian Rupees. (1 USD = 70 INR)
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
