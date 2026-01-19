@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : CheckNumberType
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : It accepts an integer from the user and 
 //                  displays whether the number is positive, 
 //                  negative, or zero
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
