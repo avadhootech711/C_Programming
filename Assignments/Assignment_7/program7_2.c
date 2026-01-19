@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Display
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a number from the user
 //                  and display numbers till given number
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
