@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : SquareMeter
-//  Input         : Integer
-//  Output        : Double
 //  Description   : This function converts area from square feet
 //                  into square meter.
+//  Input         : Integer
+//  Output        : Double
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 29/10/2025
 //
