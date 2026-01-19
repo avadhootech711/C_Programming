@@ -9,9 +9,9 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Percentage
+//  Description   : Calculates percentage based on total and obtained marks
 //  Input         : Integer, Integer
 //  Output        : Float
-//  Description   : Calculates percentage based on total and obtained marks
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
