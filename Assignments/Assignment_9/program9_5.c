@@ -9,11 +9,11 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : FactorialDiff
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : Accepts a number from user and returns 
 //                  the difference between even factorial 
 //                  and odd factorial of that number.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
