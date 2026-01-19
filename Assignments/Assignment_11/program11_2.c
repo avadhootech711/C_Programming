@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : RangeDisplayEven
-//  Input         : Integer, Integer
-//  Output        : None(Void)
 //  Description   : This function displays all even numbers from
 //                  starting point to ending point.
+//  Input         : Integer, Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
