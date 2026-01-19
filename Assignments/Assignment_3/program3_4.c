@@ -9,12 +9,12 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name  : DisplayConvert
-//  Input          : Character
-//  Output         : None(Void)
 //  Description    : It accepts one character from the user and 
 //                   converts it to its opposite case. 
 //                   If the character is uppercase, it is converted 
 //                   to lowercase, and vice versa.
+//  Input          : Character
+//  Output         : None(Void)
 //  Author         : Avadhoot Subhash Pawar
 //  Date           : 03/11/2025
 //
