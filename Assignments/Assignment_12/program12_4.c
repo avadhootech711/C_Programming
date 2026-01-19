@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Sum_of_Even_Factors
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function returns the sum of all even
 //                  factors of the given number (excluding the number itself).
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
