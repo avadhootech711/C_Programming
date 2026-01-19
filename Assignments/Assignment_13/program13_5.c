@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Sum_Even_Numbers
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function returns the sum of all even
 //                  numbers between 1 and the given limit N
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
