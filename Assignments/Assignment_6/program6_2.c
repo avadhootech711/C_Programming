@@ -10,10 +10,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : CheckGreater
-//  Input         : Integer
-//  Output        : Boolean
 //  Description   : Checks whether the given number is 
 //                  greater than 100 or not.
+//  Input         : Integer
+//  Output        : Boolean
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
