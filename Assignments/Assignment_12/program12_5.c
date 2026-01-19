@@ -10,10 +10,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Is_Divisible_by_Five
-//  Input         : Integer
-//  Output        : Boolean
 //  Description   : This function checks whether the given number
 //                  is divisible by 5 or not.
+//  Input         : Integer
+//  Output        : Boolean
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
