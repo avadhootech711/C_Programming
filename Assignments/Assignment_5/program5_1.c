@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : CheckEvenOdd
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : It accepts a number from the user and displays 
 //                  whether the number is even or odd using if-else.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 27/10/2025
 //
