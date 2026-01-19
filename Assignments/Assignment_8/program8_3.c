@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Factorial
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function accepts a number from the user
 //                  and returns the factorial of that number.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
