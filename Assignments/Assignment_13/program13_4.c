@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Sum_Natural_Numbers
-//  Input         : Integer
-//  Output        : Integer
 //  Description   : This function returns the sum of all natural
 //                  numbers up to the given limit N.
+//  Input         : Integer
+//  Output        : Integer
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 30/10/2025
 //
