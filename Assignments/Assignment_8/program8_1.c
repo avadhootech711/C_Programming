@@ -9,12 +9,12 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : Number
-//  Input         : Integer
-//  Output        : None(Void)
 //  Description   : This function accepts a number from the user 
 //                  and prints "Small" if the number is less than 50,
 //                  "Medium" if it is between 50 and 100,
 //                  and "Large" if it is greater than 100.
+//  Input         : Integer
+//  Output        : None(Void)
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 28/10/2025
 //
