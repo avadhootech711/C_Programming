@@ -9,10 +9,10 @@
 ///////////////////////////////////////////////////////////////
 //
 //  Function Name : FhtoCs
-//  Input         : Float
-//  Output        : Double
 //  Description   : This function converts temperature from
 //                  Fahrenheit to Celsius.
+//  Input         : Float
+//  Output        : Double
 //  Author        : Avadhoot Subhash Pawar
 //  Date          : 29/10/2025
 //
